@@ -1,11 +1,16 @@
 _repo: Life-and-Adventure-in-the-South-Pacific_59684
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59684-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, John D.
     gutenberg_agent_id: '50567'
     url: http://www.gutenberg.org/2009/agents/50567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59684#Life-and-Adventure-in-the-South-Pacific
 gutenberg_issued: '2019-06-06'
 gutenberg_type: Text
 identifiers:
